@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi, I'm Harsh Rai — a BCA student and frontend developer passionate about building clean, responsive web apps.
 💻 I work with HTML, CSS, JavaScript, React, and basic Node.js.
+💻 Also i have hands on experience in AI and ML projects.
 🚀 Projects: Jarvis Chatbot, YouTube/Amazon clones, Movie App, News Portal.
 📚 Currently learning React ecosystem and API integration.
 🤝 Always open to collaborate — feel free to explore my work!
